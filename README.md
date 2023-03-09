@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Manimithra, welcome to my GitHub. 🌱
+### I'm Manimithra, Welcome to my first repository ⚡
 <!--
 **MCV7/MCV7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
